@@ -49,5 +49,5 @@ Voici la page qui affiche la formulaire d'ajout d'un animal:
 
 ### Conclusion
 
-Ce projet était très facile à réalisé malgrès qu'on avait que 2 semaines pour le réalisé.
+Ce projet était très facile à réalisé malgrès qu'il n'y avait que 2 semaines pour le réalisé.
 J'aurais pu ajouter de la couleur mais en raison d'autre projet que j'avais en parallèle cela n'a pas été fait.
